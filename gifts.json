@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "G001",
+    "category": "Cozinha",
+    "name": "Jogo de panelas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G002",
+    "category": "Cozinha",
+    "name": "Frigideira pequena",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G003",
+    "category": "Cozinha",
+    "name": "Frigideira grande",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G004",
+    "category": "Cozinha",
+    "name": "Panela de pressão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G005",
+    "category": "Cozinha",
+    "name": "Panela pequena",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G006",
+    "category": "Cozinha",
+    "name": "Panela média",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G007",
+    "category": "Cozinha",
+    "name": "Panela grande",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G008",
+    "category": "Cozinha",
+    "name": "Leiteira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G009",
+    "category": "Cozinha",
+    "name": "Forma de bolo",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G010",
+    "category": "Cozinha",
+    "name": "Assadeira grande",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G011",
+    "category": "Cozinha",
+    "name": "Refratário de vidro",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G012",
+    "category": "Cozinha",
+    "name": "Travessa para servir",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G013",
+    "category": "Cozinha",
+    "name": "Jogo de facas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G014",
+    "category": "Cozinha",
+    "name": "Faca de chef",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G015",
+    "category": "Cozinha",
+    "name": "Faca para pão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G016",
+    "category": "Cozinha",
+    "name": "Tábua de corte",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G017",
+    "category": "Cozinha",
+    "name": "Descascador de legumes",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G018",
+    "category": "Cozinha",
+    "name": "Ralador",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G019",
+    "category": "Cozinha",
+    "name": "Espremedor de alho",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G020",
+    "category": "Cozinha",
+    "name": "Abridor de latas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G021",
+    "category": "Cozinha",
+    "name": "Saca-rolhas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G022",
+    "category": "Cozinha",
+    "name": "Tesoura de cozinha",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G023",
+    "category": "Cozinha",
+    "name": "Peneira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G024",
+    "category": "Cozinha",
+    "name": "Escorredor de macarrão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G025",
+    "category": "Cozinha",
+    "name": "Medidores",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G026",
+    "category": "Cozinha",
+    "name": "Concha",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G027",
+    "category": "Cozinha",
+    "name": "Escumadeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G028",
+    "category": "Cozinha",
+    "name": "Colher de arroz",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G029",
+    "category": "Cozinha",
+    "name": "Colher de servir",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G030",
+    "category": "Cozinha",
+    "name": "Pegador de massa",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G031",
+    "category": "Cozinha",
+    "name": "Pegador de salada",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G032",
+    "category": "Cozinha",
+    "name": "Espátula",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G033",
+    "category": "Cozinha",
+    "name": "Fouet",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G034",
+    "category": "Cozinha",
+    "name": "Pinça culinária",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G035",
+    "category": "Cozinha",
+    "name": "Colher de pau",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G036",
+    "category": "Cozinha",
+    "name": "Espátula de silicone",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G037",
+    "category": "Mesa",
+    "name": "8 pratos rasos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G038",
+    "category": "Mesa",
+    "name": "8 pratos fundos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G039",
+    "category": "Mesa",
+    "name": "8 pratos de sobremesa",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G040",
+    "category": "Mesa",
+    "name": "8 bowls",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G041",
+    "category": "Mesa",
+    "name": "8 garfos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G042",
+    "category": "Mesa",
+    "name": "8 facas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G043",
+    "category": "Mesa",
+    "name": "8 colheres",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G044",
+    "category": "Mesa",
+    "name": "8 colheres de sobremesa",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G045",
+    "category": "Mesa",
+    "name": "8 copos de água",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G046",
+    "category": "Mesa",
+    "name": "8 copos de suco",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G047",
+    "category": "Mesa",
+    "name": "8 taças de vinho",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G048",
+    "category": "Mesa",
+    "name": "8 taças de espumante",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G049",
+    "category": "Mesa",
+    "name": "4 canecas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G050",
+    "category": "Mesa",
+    "name": "Saladeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G051",
+    "category": "Mesa",
+    "name": "Travessa grande",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G052",
+    "category": "Mesa",
+    "name": "Travessa média",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G053",
+    "category": "Mesa",
+    "name": "Petisqueira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G054",
+    "category": "Mesa",
+    "name": "Tábua de frios",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G055",
+    "category": "Mesa",
+    "name": "Jarra",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G056",
+    "category": "Mesa",
+    "name": "8 jogos americanos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G057",
+    "category": "Mesa",
+    "name": "8 sousplats",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G058",
+    "category": "Mesa",
+    "name": "8 guardanapos de tecido",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G059",
+    "category": "Mesa",
+    "name": "Toalha de mesa",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G060",
+    "category": "Mesa",
+    "name": "Caminho de mesa",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G061",
+    "category": "Eletrodomésticos",
+    "name": "Liquidificador",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G062",
+    "category": "Eletrodomésticos",
+    "name": "Mixer",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G063",
+    "category": "Eletrodomésticos",
+    "name": "Sanduicheira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G064",
+    "category": "Eletrodomésticos",
+    "name": "Torradeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G065",
+    "category": "Eletrodomésticos",
+    "name": "Air fryer",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G066",
+    "category": "Eletrodomésticos",
+    "name": "Cafeteira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G067",
+    "category": "Eletrodomésticos",
+    "name": "Chaleira elétrica",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G068",
+    "category": "Eletrodomésticos",
+    "name": "Processador",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G069",
+    "category": "Eletrodomésticos",
+    "name": "Batedeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G070",
+    "category": "Eletrodomésticos",
+    "name": "Grill",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G071",
+    "category": "Organização e limpeza",
+    "name": "Jogo de potes herméticos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G072",
+    "category": "Organização e limpeza",
+    "name": "Potes de vidro",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G073",
+    "category": "Organização e limpeza",
+    "name": "Potes plásticos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G074",
+    "category": "Organização e limpeza",
+    "name": "Potes para mantimentos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G075",
+    "category": "Organização e limpeza",
+    "name": "Porta-arroz",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G076",
+    "category": "Organização e limpeza",
+    "name": "Porta-feijão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G077",
+    "category": "Organização e limpeza",
+    "name": "Porta-macarrão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G078",
+    "category": "Organização e limpeza",
+    "name": "Porta-açúcar",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G079",
+    "category": "Organização e limpeza",
+    "name": "Porta-farinha",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G080",
+    "category": "Organização e limpeza",
+    "name": "Porta-café",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G081",
+    "category": "Organização e limpeza",
+    "name": "Porta-sal",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G082",
+    "category": "Organização e limpeza",
+    "name": "Porta-temperos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G083",
+    "category": "Organização e limpeza",
+    "name": "Organizador de tampas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G084",
+    "category": "Organização e limpeza",
+    "name": "Organizador de gaveta",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G085",
+    "category": "Organização e limpeza",
+    "name": "Escorredor de louça",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G086",
+    "category": "Organização e limpeza",
+    "name": "Porta-talheres",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G087",
+    "category": "Organização e limpeza",
+    "name": "Porta-esponja",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G088",
+    "category": "Organização e limpeza",
+    "name": "Porta-detergente",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G089",
+    "category": "Organização e limpeza",
+    "name": "Lixeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G090",
+    "category": "Organização e limpeza",
+    "name": "8–12 panos de prato",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G091",
+    "category": "Organização e limpeza",
+    "name": "Panos multiuso",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G092",
+    "category": "Organização e limpeza",
+    "name": "Esponjas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G093",
+    "category": "Organização e limpeza",
+    "name": "Escova para louça",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G094",
+    "category": "Organização e limpeza",
+    "name": "Luvas de limpeza",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G095",
+    "category": "Organização e limpeza",
+    "name": "Rodo de pia",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G096",
+    "category": "Lavanderia",
+    "name": "Cesto de roupa suja",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G097",
+    "category": "Lavanderia",
+    "name": "Cesto de roupa limpa",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G098",
+    "category": "Lavanderia",
+    "name": "Varal",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G099",
+    "category": "Lavanderia",
+    "name": "Pregadores",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G100",
+    "category": "Lavanderia",
+    "name": "Balde",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G101",
+    "category": "Lavanderia",
+    "name": "Bacia",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G102",
+    "category": "Lavanderia",
+    "name": "Rodo",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G103",
+    "category": "Lavanderia",
+    "name": "Vassoura",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G104",
+    "category": "Lavanderia",
+    "name": "Pá de lixo",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G105",
+    "category": "Lavanderia",
+    "name": "Mop",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G106",
+    "category": "Lavanderia",
+    "name": "Escova para limpeza",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G107",
+    "category": "Lavanderia",
+    "name": "Escova para roupas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G108",
+    "category": "Lavanderia",
+    "name": "Panos de chão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G109",
+    "category": "Lavanderia",
+    "name": "Panos multiuso",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G110",
+    "category": "Lavanderia",
+    "name": "Flanelas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G111",
+    "category": "Lavanderia",
+    "name": "Organizador de produtos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G112",
+    "category": "Lavanderia",
+    "name": "Porta-vassouras",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G113",
+    "category": "Lavanderia",
+    "name": "Lixeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G114",
+    "category": "Quarto",
+    "name": "4 jogos de cama",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G115",
+    "category": "Quarto",
+    "name": "4 lençóis",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G116",
+    "category": "Quarto",
+    "name": "4 fronhas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G117",
+    "category": "Quarto",
+    "name": "2 protetores de colchão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G118",
+    "category": "Quarto",
+    "name": "2 travesseiros",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G119",
+    "category": "Quarto",
+    "name": "2 protetores de travesseiro",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G120",
+    "category": "Quarto",
+    "name": "Edredom",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G121",
+    "category": "Quarto",
+    "name": "Cobertor",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G122",
+    "category": "Quarto",
+    "name": "2 mantas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G123",
+    "category": "Quarto",
+    "name": "Cabides",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G124",
+    "category": "Quarto",
+    "name": "Organizadores de gaveta",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G125",
+    "category": "Quarto",
+    "name": "Cesto para roupas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G126",
+    "category": "Banheiro",
+    "name": "2 jogos de toalhas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G127",
+    "category": "Banheiro",
+    "name": "4 toalhas de banho",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G128",
+    "category": "Banheiro",
+    "name": "4 toalhas de rosto",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G129",
+    "category": "Banheiro",
+    "name": "2 toalhas de piso",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G130",
+    "category": "Banheiro",
+    "name": "Tapete de banheiro",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G131",
+    "category": "Banheiro",
+    "name": "Porta-sabonete",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G132",
+    "category": "Banheiro",
+    "name": "Porta-escova de dentes",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G133",
+    "category": "Banheiro",
+    "name": "Saboneteira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G134",
+    "category": "Banheiro",
+    "name": "Lixeira",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G135",
+    "category": "Banheiro",
+    "name": "Escova sanitária",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G136",
+    "category": "Banheiro",
+    "name": "Porta-papel higiênico",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G137",
+    "category": "Banheiro",
+    "name": "Organizador de banheiro",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G138",
+    "category": "Receber",
+    "name": "Tábua de churrasco",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G139",
+    "category": "Receber",
+    "name": "Faca para carne",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G140",
+    "category": "Receber",
+    "name": "Garfo trinchante",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G141",
+    "category": "Receber",
+    "name": "Pegador",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G142",
+    "category": "Receber",
+    "name": "Espetos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G143",
+    "category": "Receber",
+    "name": "Kit para churrasco",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G144",
+    "category": "Receber",
+    "name": "Travessa para carne",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G145",
+    "category": "Receber",
+    "name": "Decanter",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G146",
+    "category": "Receber",
+    "name": "Balde de gelo",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G147",
+    "category": "Receber",
+    "name": "Pegador de gelo",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G148",
+    "category": "Receber",
+    "name": "Bandeja",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G149",
+    "category": "Receber",
+    "name": "Abridor de vinho",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G150",
+    "category": "Casa e ferramentas",
+    "name": "Tesoura",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G151",
+    "category": "Casa e ferramentas",
+    "name": "Fita adesiva",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G152",
+    "category": "Casa e ferramentas",
+    "name": "Fita dupla face",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G153",
+    "category": "Casa e ferramentas",
+    "name": "Fita isolante",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G154",
+    "category": "Casa e ferramentas",
+    "name": "Cola instantânea",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G155",
+    "category": "Casa e ferramentas",
+    "name": "Pregos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G156",
+    "category": "Casa e ferramentas",
+    "name": "Parafusos",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G157",
+    "category": "Casa e ferramentas",
+    "name": "Buchas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G158",
+    "category": "Casa e ferramentas",
+    "name": "Chaves de fenda",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G159",
+    "category": "Casa e ferramentas",
+    "name": "Martelo",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G160",
+    "category": "Casa e ferramentas",
+    "name": "Trena",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G161",
+    "category": "Casa e ferramentas",
+    "name": "Extensão",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G162",
+    "category": "Casa e ferramentas",
+    "name": "Filtro de linha",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G163",
+    "category": "Casa e ferramentas",
+    "name": "Adaptadores de tomada",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G164",
+    "category": "Casa e ferramentas",
+    "name": "Lanterna",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G165",
+    "category": "Casa e ferramentas",
+    "name": "Pilhas",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G166",
+    "category": "Casa e ferramentas",
+    "name": "Kit de costura",
+    "status": "Disponível",
+    "reservedBy": ""
+  },
+  {
+    "id": "G167",
+    "category": "Casa e ferramentas",
+    "name": "Escada pequena",
+    "status": "Disponível",
+    "reservedBy": ""
+  }
+]
