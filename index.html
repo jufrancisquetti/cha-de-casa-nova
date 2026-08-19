@@ -25,7 +25,7 @@ header{background:linear-gradient(135deg,#151515,#343434);color:#fff;text-align:
 </main>
 <div id="modal" class="modal"><div><h2>Reservar presente</h2><p id="chosen"></p><input id="guest" placeholder="Seu nome" autocomplete="name"><input id="contact" placeholder="WhatsApp (opcional)" autocomplete="tel"><div class="actions"><button class="btn" onclick="closeM()">Cancelar</button> <button id="confirmBtn" class="btn" onclick="reserve()">Confirmar</button></div></div></div>
 <script>
-const BACKEND_URL='COLE_AQUI_A_URL_DO_APPS_SCRIPT';
+const BACKEND_URL='https://script.google.com/macros/s/AKfycbxfJU4ISCfQwG9ijdmU_U56C8ygyeuqI3rjDeqKMxFay3BLorqrIk5Mp5BDmdSFcsqK/exec';
 let gifts=[],selected=null;
 const $=id=>document.getElementById(id);
 function showError(msg){$('error').textContent=msg;$('error').style.display='block'}
